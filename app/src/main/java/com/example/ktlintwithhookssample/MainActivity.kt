@@ -43,7 +43,7 @@ fun greeting(
 
 @Preview(showBackground = true)
 @Composable
-fun greetingPreview() {
+fun GreetingPreview() {
     ktlintWithHooksSampleTheme {
         greeting("Android")
     }
